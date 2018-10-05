@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 12 14:05:09 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0165-cdab-bd52-000006759c20 
+on database directory C:\Users\Gergo\Documents\NetBeansProjects\PhoneBook_SFJ\sampleDB with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/Gergo/Documents/NetBeansProjects/PhoneBook_SFJ/dist/run1893812345/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\Gergo\Documents\NetBeansProjects\PhoneBook_SFJ
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
